@@ -1,0 +1,4 @@
+
+INSERT INTO `db_pedidos`.`db_cadrasto` (`nome`, `cpf`, `telefone`, `email`, `endereço`, `bairro`, `cidade`, `cep`) VALUES ('Juca Bala', '649.616.580-73', '(51) 2635-7800', 'jucabala@gmail.com', 'Rua Coronel José Augusto Gomes', 'Ponte Nova', 'Várzea Grande', '78115-876');
+INSERT INTO `db_pedidos`.`db_cadrasto` (`nome`, `cpf`, `telefone`, `email`, `endereço`, `bairro`, `cidade`, `cep`) VALUES ('Mario Biqueira', '426.504.340-23', '(95) 3362-0737', 'biqueira@gmail.com', 'Rua Itacuru', 'Itanhangá Park', 'Campo Grande', '79003-021');
+INSERT INTO `db_pedidos`.`db_cadrasto` (`nome`, `cpf`, `telefone`, `email`, `endereço`, `bairro`, `cidade`, `cep`) VALUES ('Mohamed Kabib', '691.978.310-00', '(98) 2282-6641', 'mohamedkabib@gmail.com', 'Rua Estudante José Correia Filho', 'Jardim Cidade Universitária', 'João Pessoa', '58052-620');
